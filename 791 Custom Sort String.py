@@ -1,3 +1,5 @@
+#10/17/2022 20:37	Accepted	43 ms	13.9 MB	python3
+
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
         
