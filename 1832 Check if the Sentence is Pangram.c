@@ -1,3 +1,5 @@
+//10/17/2022 21:22	Accepted	0 ms	5.7 MB	c
+
 bool checkIfPangram(char * sentence){
     if(strlen(sentence) < 1 || strlen(sentence) < 26 || strlen(sentence) > 1000) return false;
     
