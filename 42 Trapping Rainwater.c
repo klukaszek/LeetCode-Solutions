@@ -1,3 +1,5 @@
+//10/17/2022 06:45	Accepted	28 ms	7.1 MB	c
+
 int max(int a, int b)
 {
     if(a>b) return a;
