@@ -4,6 +4,7 @@
 //     struct ListNode *next;
 // };
 
+//10/17/2022 20:17	Accepted	19 ms	7.8 MB	c
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
     struct ListNode *root = malloc(sizeof(struct ListNode));
